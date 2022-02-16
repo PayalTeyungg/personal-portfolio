@@ -1,0 +1,19 @@
+Personal Details
+  Name:Payal Teyung
+  Contact Address: Budhanilkantha/981314532
+  Date of Birth: 2059/03/30
+  Sex:Female
+  Nationality: Nepali
+  Language Known: Nepali,English,Hindi
+
+Academic Qualification
+  1.B.E.,Pokhara University,IT Engineering,2019
+  2.+2,NEB,Science,2015
+  3.SEE,NEB,2013
+
+Professional Experience
+   a.Assiatant Engineer,Professional Copmputer Academy
+   b.IT Officer,Sabrina Enterprises
+   c.Assistant Engineer,MOON
+
+   
